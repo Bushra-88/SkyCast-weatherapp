@@ -29,7 +29,7 @@
 
 You can also access the SkyCast Weather App online through this [Netlify link](https://skycast-application.netlify.app/).
 
-## Screenshots
+## Screenshot
 
 ![Search Weather](./images/skyCast.png)  
 _Screenshot of the city search feature._
