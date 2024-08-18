@@ -18,9 +18,7 @@ a {
   color: #1282a2;
   text-decoration: none;
 }
-a:visited {
-  color: #f08080;
-}
+
 .search-form-input {
   background-color: white;
   border: none;
