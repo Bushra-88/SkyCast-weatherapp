@@ -18,6 +18,9 @@ a {
   color: #1282a2;
   text-decoration: none;
 }
+a:active {
+  color: #f08080;
+}
 .search-form-input {
   background-color: white;
   border: none;
