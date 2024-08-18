@@ -3,6 +3,7 @@ function refreshWeather(response) {
   let city = response.data.city;
   let timeElement = document.querySelector("#time");
   let date = new Date(response.data.time * 1000);
+
   let descriptionElement = document.querySelector("#description");
   let description = response.data.condition.description;
   let humidityElement = document.querySelector("#humidity");
