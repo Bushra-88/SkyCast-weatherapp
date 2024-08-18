@@ -38,6 +38,33 @@ a {
   color: white;
 }
 
+main {
+  padding: 30px 0;
+}
+
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.weather-app-city {
+  margin: 0;
+  font-size: 38px;
+  line-height: 48px;
+  color: #272142;
+  font-weight: 700;
+}
+
+.weather-app-details {
+  font-size: 18px;
+  line-height: 20px;
+  color: rgba(39, 33, 66, 0.4);
+  font-weight: 500;
+}
+.weather-app-details strong {
+  color: #f65282;
+}
 footer {
   border-top: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
